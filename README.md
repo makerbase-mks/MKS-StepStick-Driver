@@ -9,6 +9,9 @@ Ultra-quiet and low-heat driver, compatible with plug-in interface, V2.0 version
 - Single Wire UART & OTP for advanced configuration options
 - Support marlin SENSORLESS_HOMING function
 
+## Related tutorials and Notice
+- MKS TMC2209 V2.0 uart mode SENSORLESS_HOMING function.[click here](https://www.youtube.com/watch?v=vSgcH2wjCwY&tdsourcetag=s_pctim_aiomsg)
+
 ## MKS TMC2209 V2.0_001
 - MKS TMC2209 V2.0_001 change from MKS TMC2209 V1.0_001
 - Adjust the DIAG signal pin, V2.0 can be used directly SENSORLESS_HOMING for motherboard,such as MKS SGEN_L, MKS Gen_L V2.1, MKS Robin E3D
