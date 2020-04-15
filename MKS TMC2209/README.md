@@ -1,7 +1,6 @@
-# MKS StepStick Driver Hardware
-- Include MKS TMC2208, MKS TMC2209, MKS TMC2130, MKS TB67S109 and so on driver hardware
-
-## MKS TMC2209 Features
+# MKS-TMC2209 Hardware
+Ultra-quiet and low-heat driver, compatible with plug-in interface, V2.0 version can directly support the SENSORLESS_HOMING function, no flying lead required and so on.
+## Features
 - Smooth Running 256 microsteps by MicroPlyer™ interpolation
 - StealthChop2™ silent motor operation
 - StallGuard4™ load and stall detection for StealthChop
@@ -20,5 +19,3 @@
 
 ## MSK TMC2209 V1.0_001
 - Inital hardware version
-
-
