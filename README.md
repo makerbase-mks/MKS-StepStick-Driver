@@ -12,6 +12,8 @@
 
 ## Related tutorials and Notice
 - MKS TMC2209 V2.0 uart mode SENSORLESS_HOMING function.[click here](https://www.youtube.com/watch?v=vSgcH2wjCwY&tdsourcetag=s_pctim_aiomsg)
+- MKS TMC2209 on MKS motherboard setting, in clude uart mode and SENSORLESS_HOMING function. [click here](https://www.youtube.com/watch?v=eF8Mqa2Y3oo)
+- MKS TMC2209 on MKS motherboard setting. [click here](https://www.youtube.com/watch?v=6RcrgmNvyeA)
 
 ## MKS TMC2209 V2.0_001
 - MKS TMC2209 V2.0_001 change from MKS TMC2209 V1.0_001
