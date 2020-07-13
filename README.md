@@ -1,5 +1,5 @@
 # MKS StepStick Driver Hardware
-- Include MKS TMC2208, MKS TMC2209, MKS TMC2130, MKS TB67S109 and so on driver hardware
+- Include MKS TMC2209, MKS TMC2225, MKS TMC2208, MKS TMC2130, MKS TB67S109 and so on driver hardware
 
 ## MKS TMC2209 Features
 - Smooth Running 256 microsteps by MicroPlyer™ interpolation
